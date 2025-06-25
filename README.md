@@ -10,11 +10,14 @@
 - /data/jieun/now_using_array/fluency_modified_two_spks_sets (신서버)
 
 ### 4️⃣ model (hugging face)
-
+- "/mnt/hdd14/jieun/2023_ETRI_PROJECT/MODEL_SAVE_dysarthric_w2v_output/20240311_k-sec_15k_+fmllr"
 ### 5️⃣ test results
 - /data/jieun/TEST_RES_dysarthric_w2v_output/0519 (신서버)
 
 ### 6️⃣ codes
+- for kaldi
+- ➡️ /jieun/2023_ETRI_PROJECT/2024_thesis/make_2spks_scp.py (.scp)
+- ➡️ /jieun/2023_ETRI_PROJECT/2024_thesis/make_read_fmllr.py (for read the results of fmllr - trans.1)
 ---
 ### Experimental Environment
 - NVIDIA RTX A5000
