@@ -9,7 +9,6 @@
 - /data/jieun/now_using_array/fluency_modified_two_spks_sets/set1/real_xvec_array (신서버, 5/25)
 
 ### 3️⃣ array (instead of .wav)
-- /data/jieun/now_using_array/fluency_modified_two_spks_sets (신서버)
 - /data/jieun/now_using_array/fluency_modified_two_spks_sets/set1/real_byfluency_array (신서버, 5/22)
 - csv files for making array: /data/jieun/DATA_csv/ (신서버)
 
