@@ -15,3 +15,7 @@
 - /data/jieun/TEST_RES_dysarthric_w2v_output/0519 (신서버)
 
 ### 6️⃣ codes
+---
+### Experimental Environment
+- NVIDIA RTX A5000
+- RAM 24GB
