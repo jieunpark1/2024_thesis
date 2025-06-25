@@ -1,16 +1,16 @@
 ### 2024_thesis
 - Repository for M.D of 2024
 
-### fmllr 
+## 1️⃣ fmllr 
 
-#### xvector
+#### 2️⃣ xvector
 
-### array (instead of .wav)
+### 3️⃣ array (instead of .wav)
 - /data/jieun/now_using_array/fluency_modified_two_spks_sets
 
-### model (hugging face)
+### 4️⃣ model (hugging face)
 
-### test results
+### 5️⃣test results
 - /data/jieun/TEST_RES_dysarthric_w2v_output/0519
 
-### codes
+### 6️⃣codes
