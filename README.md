@@ -5,13 +5,17 @@
 - /mnt/hdd14/jieun/2023_ETRI_PROJECT/FMLLR_ext_materials/(set1|set2|set3|all_three_datasets) (구서버)
 
 ### 2️⃣ xvector
+- /data/jieun/now_using_array/fluency_modified_two_spks_sets/set(1|2|3)/xvector_ext_model_(20|40|512)/set(1|2|3)_(advanced|intermediate|novice)_train_xvector(20|40|512).csv
+- /data/jieun/now_using_array/fluency_modified_two_spks_sets/set1/real_xvec_array (신서버, 5/25)
 
 ### 3️⃣ array (instead of .wav)
 - /data/jieun/now_using_array/fluency_modified_two_spks_sets (신서버)
+- /data/jieun/now_using_array/fluency_modified_two_spks_sets/set1/real_byfluency_array (신서버, 5/22)
 - csv files for making array: /data/jieun/DATA_csv/ (신서버)
 
 ### 4️⃣ model (hugging face)
 - "/mnt/hdd14/jieun/2023_ETRI_PROJECT/MODEL_SAVE_dysarthric_w2v_output/20240311_k-sec_15k_+fmllr"
+- 
 ### 5️⃣ test results
 - /data/jieun/TEST_RES_dysarthric_w2v_output/0519 (신서버)
 
@@ -19,6 +23,8 @@
 - for kaldi
 - ➡️ /jieun/2023_ETRI_PROJECT/2024_thesis/make_2spks_scp.py (.scp) (구서버)
 - ➡️ /jieun/2023_ETRI_PROJECT/2024_thesis/make_read_fmllr.py (for read the results of fmllr - trans.1) (구서버)
+- for training
+- lost...😭
 ---
 ### Experimental Environment
 - NVIDIA RTX A5000
