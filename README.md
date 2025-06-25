@@ -18,4 +18,7 @@
 ---
 ### Experimental Environment
 - NVIDIA RTX A5000
-- RAM 24GB
+- RAM 24GB * 2
+- and
+- NVIDIA TITAN Xp
+- RAM 12GB * 4
