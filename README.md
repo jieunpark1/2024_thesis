@@ -8,6 +8,7 @@
 
 ### 3️⃣ array (instead of .wav)
 - /data/jieun/now_using_array/fluency_modified_two_spks_sets (신서버)
+- csv files for making array: /data/jieun/DATA_csv/ (신서버)
 
 ### 4️⃣ model (hugging face)
 - "/mnt/hdd14/jieun/2023_ETRI_PROJECT/MODEL_SAVE_dysarthric_w2v_output/20240311_k-sec_15k_+fmllr"
@@ -16,8 +17,8 @@
 
 ### 6️⃣ codes
 - for kaldi
-- ➡️ /jieun/2023_ETRI_PROJECT/2024_thesis/make_2spks_scp.py (.scp)
-- ➡️ /jieun/2023_ETRI_PROJECT/2024_thesis/make_read_fmllr.py (for read the results of fmllr - trans.1)
+- ➡️ /jieun/2023_ETRI_PROJECT/2024_thesis/make_2spks_scp.py (.scp) (구서버)
+- ➡️ /jieun/2023_ETRI_PROJECT/2024_thesis/make_read_fmllr.py (for read the results of fmllr - trans.1) (구서버)
 ---
 ### Experimental Environment
 - NVIDIA RTX A5000
