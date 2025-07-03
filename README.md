@@ -1,6 +1,11 @@
 ## Repository for M.D. of 2024
 - Thesis link ➡️ [Phoneme recognition of Korean children’s English speech using self-supervised learning based domain adaptation](https://lib.hufs.ac.kr/#/search/detail/3736832?offset=1)
+
+- Results
+  ![Image](https://github.com/user-attachments/assets/95629ee7-b79f-4e59-9e23-db79c0b7f314)
 ---
+
+## Code Files (uploading soon..)
 ### 1️⃣ fmllr 
 - /mnt/hdd14/jieun/2023_ETRI_PROJECT/FMLLR_ext_materials/(set1|set2|set3|all_three_datasets) (구서버)
 
